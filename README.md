@@ -1,22 +1,26 @@
 
 <h1 align="center">Hi 👋, I'm Jana Sherif</h1>
 
-<h3 align="center">Software Engineering Student | Aspiring Machine Learning Engineer</h3>
+<h3 align="center">Computer Science Student at Cairo University 🎓</h3>
+
+<p align="center">
+  Passionate about programming, problem-solving, and building creative projects.
+</p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Studying Computer and Artificial Intelligence.
+- 🎓 Computer Science student at Cairo University.
 - 💻 Interested in Software Development and Machine Learning.
-- 🌱 Currently improving my programming and problem-solving skills.
-- 🚀 I enjoy building projects and learning new technologies.
-- 📚 Always curious and excited to explore new challenges.
+- 🌱 Continuously learning and improving my programming skills.
+- 🚀 Enjoy building projects and solving programming challenges.
+- 📚 Always exploring new technologies and learning new things.
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
 </p>
 
 ### 📊 GitHub Stats
@@ -28,7 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasherif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 
 ### 🤝 Connect With Me
 
@@ -42,4 +45,10 @@
   <a href="mailto:janasherif1142006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>Always learning, always building.</i>
 </p>
