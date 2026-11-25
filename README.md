@@ -40,8 +40,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janasherif-coder&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasherif-coder&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janasherif-coder&theme=tokyo-night" />
 </p>
 ### 🤝 Connect With Me
 
