@@ -23,16 +23,26 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
 </p>
 
+### 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://codeforces.com/profile/jana114">
+    <img src="https://img.shields.io/badge/Codeforces-jana114-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jana114" alt="Codeforces Stats" />
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janasherif-coder&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janasherif-coder&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasherif-coder&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasherif-coder&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
-
 ### 🤝 Connect With Me
 
 <p align="left">
